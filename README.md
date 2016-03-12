@@ -1,5 +1,14 @@
 # AliceWorkshop
 
+The following workshop was created with:
+
+1. Alice 3.2
+2. Netbeans 8.1
+3. Alice for Netbeans plugin 3.2.5.0.0
+
+All downloads may be found here: http://www.alice.org/index.php?page=downloads/download_alice3.1
+
+
 The Alice 3.0 gallery of The Sims 2 art assets and animations is provided by Electronic Arts Inc. pursuant to this license.  Copyright (c) 2004 Electronic Arts Inc. All rights reserved.
 
 Redistribution and use of the The Sims 2 art assets, animations, and other materials ("The Sims 2 Assets"), without modification, are permitted solely with programs written with Alice 3.0 for personal, non-commercial, and academic use only, provided that the following conditions are met:
